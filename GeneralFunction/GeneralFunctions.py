@@ -12,10 +12,3 @@ def extract_reg_numbers():
 with open('TestData/car_input - V5.txt', 'r') as file:
     content = file.read()
 
-# # Extract registration numbers
-# registrations = extract_reg_numbers(content)
-#
-# # Print results
-# print("Found registration numbers:")
-# for reg in registrations:
-#     print(f"- {reg}")

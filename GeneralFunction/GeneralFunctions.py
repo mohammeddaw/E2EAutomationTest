@@ -9,7 +9,7 @@ def extract_reg_numbers():
     return reg_numbers
 
 # Read the file
-with open('C:\\PythonDrivers\\car_input - V5.txt', 'r') as file:
+with open('TestData/car_input - V5.txt', 'r') as file:
     content = file.read()
 
 # # Extract registration numbers

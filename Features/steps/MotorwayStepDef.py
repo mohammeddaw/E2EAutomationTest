@@ -20,15 +20,13 @@ def step_impl(context):
     chrome_options.add_argument('--start-maximized')  # Optional: starts Chrome maximized
 
     # Set up the Chrome service
-    service = Service("C:\\PythonDrivers\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe")
+    service = Service("Drivers/chromedriver.exe")
 
     # Initialize the driver
     context.driver = webdriver.Chrome(service=service, options=chrome_options)
 
     # Navigate to the website
     context.driver.get("https://motorway.co.uk/")
-
-    # driver.quit()
 
     act_title = context.driver.title
     expected_title = "Sell My Car | Get Your Highest Offer | Easy & 100% Free"
@@ -40,6 +38,7 @@ def step_impl(context):
         context.driver.find_element(By.XPATH, '//*[@id="mileage-input').send_keys("90000")
         context.driver.find_element(By.XPATH, '//*[@id="mileage-input').send_keys(Keys.RETURN)
         time.sleep(20)
+
 
 
 

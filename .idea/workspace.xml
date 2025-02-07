@@ -31,24 +31,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Behave.Motoryway.feature.executor": "Debug",
-    "Behave.Motoryway.feature:validate the vehicle details for different vehicle registration numbers.executor": "Run",
-    "Python.MotorwayStepDef.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/E2ETests/E2ETestAutomation/Drivers",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Behave.Motoryway.feature.executor&quot;: &quot;Debug&quot;,
+    &quot;Behave.Motoryway.feature:validate the vehicle details for different vehicle registration numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MotorwayStepDef.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/E2ETests/E2ETestAutomation/Drivers&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\E2ETests\E2ETestAutomation\Drivers" />
@@ -136,6 +136,7 @@
       <workItem from="1738932986586" duration="10479000" />
       <workItem from="1738943551281" duration="7080000" />
       <workItem from="1738950816437" duration="1514000" />
+      <workItem from="1738952383469" duration="94000" />
     </task>
     <task id="LOCAL-00001" summary="E2EProject">
       <option name="closed" value="true" />
@@ -169,7 +170,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738952254028</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Drivers added to the project">
+      <option name="closed" value="true" />
+      <created>1738952408786</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738952408786</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Drivers added to the project">
+      <option name="closed" value="true" />
+      <created>1738952457421</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738952457421</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

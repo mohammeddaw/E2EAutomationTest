@@ -1,0 +1,20 @@
+{
+    "environments":
+    {
+        "qa":
+        {
+            "base_url": "https://motorway.co.uk/",
+            "timeout": 15
+        }
+    },
+    "browser_settings":
+    {
+        "browser_type": "chrome",
+        "headless": false,
+        "window_size":
+        {
+            "width": 1920,
+            "height": 1080
+        }
+    }
+}
